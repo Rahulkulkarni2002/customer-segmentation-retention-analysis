@@ -1,4 +1,5 @@
-*.csv
+online_retail_II.csv
+cleaned_retail.csv
 venv/
 __pycache__/
 .DS_Store
