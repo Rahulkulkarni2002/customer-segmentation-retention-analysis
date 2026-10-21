@@ -23,17 +23,17 @@ I built this project to practice end-to-end customer segmentation using RFM (Rec
 
 | Segment | % of Customers | % of Revenue | Avg Recency | Avg Frequency | Avg Monetary |
 |---|---|---|---|---|---|
-| Champions | 8.1% | 55.0% | 15 days | 32 orders | $20,488 |
-| Loyal Customers | 21.9% | 27.4% | 51 days | 9 orders | $3,765 |
-| New / Promising | 19.2% | 4.5% | 31 days | 2.5 orders | $699 |
-| At Risk | 23.4% | 10.7% | 293 days | 3.7 orders | $1,376 |
-| Lost / Hibernating | 27.4% | 2.4% | 411 days | 1.2 orders | $260 |
+| Champions | 7.7% | 54.5% | 15 days | 32.6 orders | $21,141 |
+| Loyal Customers | 21.6% | 27.6% | 50 days | 9.3 orders | $3,833 |
+| New / Promising | 19.0% | 4.5% | 30 days | 2.6 orders | $705 |
+| At Risk | 23.5% | 11.0% | 285 days | 3.8 orders | $1,408 |
+| Lost / Hibernating | 28.1% | 2.5% | 409 days | 1.3 orders | $266 |
 
 ![Segment Profiles](segment_profiles.png)
 
 ## What I Found Most Interesting
 
-**Revenue concentration.** Just 8.1% of customers (Champions) generate 55% of total revenue. I wasn't expecting the split to be quite this extreme when I started — it's a strong, real example of the Pareto principle showing up in actual data, not just something I'd read about.
+**Revenue concentration.** Just 7.7% of customers (Champions) generate 54.5% of total revenue. I wasn't expecting the split to be quite this extreme when I started — it's a strong, real example of the Pareto principle showing up in actual data, not just something I'd read about.
 
 ![Revenue Share by Segment](segment_revenue_share.png)
 
