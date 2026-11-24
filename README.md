@@ -6,6 +6,7 @@
 - Customers are grouped into 5 segments, each with a recommended action.
 - K-means was checked against two other clustering methods and scored best.
 - A daily revenue forecast is off by about 31% on a typical day. A simple guess is off by about 41%.
+- **Currency:** the data is in pounds (£). £1 was worth about $1.57 on average over this period. Champions spent £9.7M of the £17.6M total, which is about $15.2M of $27.6M. The At Risk segment spent £1.9M, about $3.0M.
 
 ## Business Question
 Which customers are most valuable, which ones are at risk of churning, and how should a business prioritize retention efforts across different customer types?
